@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+I am Ermias Mehreteab, I sometimes go with the name Jeremy. I am a mission-driven learner who strives to solve problems using the power
+of innovation and technology. I am currently taking a backend programming in ALX which I believe alligns with my mission and goal.
+
+Glad to meet you, See you soon.
